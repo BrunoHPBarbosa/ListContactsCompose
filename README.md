@@ -5,11 +5,16 @@ Sample ui Interface using a tollkit JetPackCompose
 Technologies:
 
 -JetPackCompose
+
 -Kotlin
+
 -MatherialTheme3
+
 -Components ui: LazyColumn,Row,Box,Column
 
+
 Themes :  Dark / Light
+
 
 <div style="display: flex; flex-direction: row; align-items: center;">
   <div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between;">
